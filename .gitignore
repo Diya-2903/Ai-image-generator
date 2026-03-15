@@ -1,0 +1,5 @@
+.vscode/
+test.png
+*.log
+node_modules/
+.env
